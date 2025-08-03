@@ -5,7 +5,7 @@ A fun little JavaScript drum kit built using Javascript, HTML and CSS. Tap keys,
 ## 🤔 What's this?
 
 This was a **JavaScript DOM practice project** I built while taking a **Full Stack Web Development course on Udemy**.  
-Basically, I learned how to make buttons do cool stuff — like making sound — when clicked or when certain keys are pressed.  
+Basically, I learned how to make buttons do cool stuff - like making sound - when clicked or when certain keys are pressed.  
 
 ## 💡 Features
 
