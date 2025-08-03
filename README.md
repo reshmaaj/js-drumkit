@@ -38,7 +38,7 @@ Here’s what I picked up while building this little jam session:
 ## 🔗 Live Demo
 
 Wanna bang some virtual drums?  
-👉 [Play it live](https://your-netlify-link.netlify.app)  
+👉 [Play it live](https://jamthedrums.netlify.app/)  
 
 ---
 
