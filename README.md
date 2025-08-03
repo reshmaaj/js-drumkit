@@ -1,12 +1,11 @@
 # 🥁 Drum Kit
 
-A mini web drum set built using JavaScript, HTML, and CSS — no real drums, no noise complaints (unless you crank up your volume).
+A fun little JavaScript drum kit built using Javascript, HTML and CSS. Tap keys, hear beats, and annoy no one (except yourself). Just DOM things!!
 
 ## 🤔 What's this?
 
 This was a **JavaScript DOM practice project** I built while taking a **Full Stack Web Development course on Udemy**.  
 Basically, I learned how to make buttons do cool stuff — like making sound — when clicked or when certain keys are pressed.  
-Now my keyboard is my band. 😎
 
 ## 💡 Features
 
@@ -23,7 +22,6 @@ Here’s what I picked up while building this little jam session:
 - 🔊 How to use **JavaScript to play audio** with the `Audio` object
 - ✨ How to apply and remove **CSS classes dynamically** to animate stuff
 - 🔄 How to **loop through elements** and add event listeners
-- 🧠 Debugging with `console.log()` like a true beginner warrior
 
 ## ⚙️ Tech Stack
 
@@ -35,19 +33,12 @@ Here’s what I picked up while building this little jam session:
 
 1. Open the webpage.
 2. Click any drum button, or press its corresponding key.
-3. Jam like no one's watching. (They probably aren't.)
+3. Jam like no one's watching. 
 
 ## 🔗 Live Demo
 
 Wanna bang some virtual drums?  
-👉 [Play it live on Netlify](https://your-netlify-link.netlify.app)  
-> Replace the link with your actual Netlify URL
-
-
-## 🙃 Fun Fact
-
-No actual musicians were harmed in the making of this project.  
-Just a beginner dev having fun with JS.
+👉 [Play it live](https://your-netlify-link.netlify.app)  
 
 ---
 
